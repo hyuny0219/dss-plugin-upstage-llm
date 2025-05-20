@@ -1,0 +1,17 @@
+{
+    "id": "upstage-solar-pro-llm",
+    "version": "0.1.0",
+    "meta": {
+        "label": "Upstage Solar Pro LLM",
+        "description": "Connect to Upstage Solar Pro LLM API",
+        "author": "Upstage",
+        "icon": "icon-cloud",
+        "tags": [
+            "Generative AI",
+            "NLP"
+        ],
+        "url": "https://upstage.ai",
+        "licenseInfo": "Apache Software License",
+        "supportLevel": "NOT_SUPPORTED"
+    }
+} 
