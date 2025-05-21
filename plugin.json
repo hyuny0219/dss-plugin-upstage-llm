@@ -5,7 +5,7 @@
         "label": "Upstage LLM",
         "description": "Connect to Upstage LLM API",
         "author": "Upstage",
-        "icon": "icon-cloud",
+        "icon": "assets/upstageai_logo.jpeg",
         "tags": [
             "Generative AI",
             "NLP"
