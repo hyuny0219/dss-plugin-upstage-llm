@@ -1,7 +1,7 @@
 {
-    "id": "upstage-solar-pro-llm-chat",
+    "id": "upstage-llm-chat",
     "meta": {
-        "label": "Upstage Solar Pro LLM Connector"
+        "label": "Upstage LLM Connector"
     },
     "params": [
         {

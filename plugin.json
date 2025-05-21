@@ -1,9 +1,9 @@
 {
-    "id": "upstage-solar-pro-llm",
+    "id": "upstage-llm",
     "version": "0.1.0",
     "meta": {
-        "label": "Upstage Solar Pro LLM",
-        "description": "Connect to Upstage Solar Pro LLM API",
+        "label": "Upstage LLM",
+        "description": "Connect to Upstage LLM API",
         "author": "Upstage",
         "icon": "icon-cloud",
         "tags": [
