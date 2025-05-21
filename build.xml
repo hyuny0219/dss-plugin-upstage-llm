@@ -10,7 +10,6 @@
 
     <target name="jar">
         <path id="lib.path.id">
-            <fileset dir="${env.DKUINSTALLDIR}/lib/ivy/backend-run" />
             <fileset dir="${env.DKUINSTALLDIR}/lib/ivy/common-run" />
             <fileset dir="${env.DKUINSTALLDIR}/lib/shadelib" />
             <fileset file="${env.DKUINSTALLDIR}/dist/dataiku-core.jar" />
