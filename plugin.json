@@ -4,7 +4,7 @@
     "meta": {
         "label": "Upstage LLM",
         "description": "Connect to Upstage LLM API",
-        "author": "Upstage",
+        "author": "Taehyun Kim(AzwellAI)",
         "icon": "icon-sun",
         "tags": [
             "Generative AI",
